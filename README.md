@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
 <h3 align="center">A passionate Backend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
-https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 💬 Ask me about **Data and Machine Learning**
