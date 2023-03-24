@@ -4,7 +4,7 @@
 This is short summary about me:
 
 - 💻  I’m currently working with Tech Mahindra as Software Engineer
-- 🔭  I’m currently working on Cloud,DevOps and Microservice Development.
+- 🔭  I’m currently working on Java/Cloud Developer.
 - 🌱  I’m currently learning Data Structures , Algorithm , System Design.
 - 📫  How to reach me: rishabhsharma.5554@gmail.com
 - 😄  Pronouns: re -sh a bha
